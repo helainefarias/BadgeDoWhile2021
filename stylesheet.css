@@ -1,0 +1,86 @@
+* {
+    margin:0;
+}
+
+html, body {
+    font-family: 'roboto', sans-serif;
+    height: 100%;
+    --grey: #E1E1E6;
+    --black: #323238;
+    -webkit-font-smoothing: antialiased;
+}
+
+body {
+    display: grid;
+    place-items: center;
+}
+
+main {
+    background: url(../NLW/images/background.png);
+    height: 812px;
+    width: 375px;
+}
+
+.container {
+    color:var(--grey);
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 250px;
+}
+
+.avatar {
+    display: inline-flex;
+    margin: 11.5rem auto;
+    position: relative;
+    width: 10rem;
+}
+
+.avatar span {
+    left: -2px;
+    position: absolute;
+    top: -20px;
+    z-index: 1;
+}
+
+.avatar > img {
+    clip-path: polygon(50% 0, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+    height: 11.5rem;
+    object-fit: cover;
+    width: 10rem;
+}
+.texto {
+    margin: -10rem auto;
+}
+
+h1 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    justify-content: center;
+}
+
+a {
+    color: var(--grey);
+    display: flex;
+    font-size: 13px;
+    font-weight: 200;
+    gap: 0.75rem;
+    justify-content: center;
+    margin-top: 0.25rem;
+    text-decoration: none;
+}
+
+p {
+    font-size: 0.95rem;
+    font-weight: lighter;
+    margin-top: 2rem;
+}
+
+ul {
+    display: flex;
+    gap: 0.5rem;
+    justify-content: center;
+    list-style: none;
+    margin-top: 4rem;
+    padding: 0;
+}
