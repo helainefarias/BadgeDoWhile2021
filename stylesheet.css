@@ -16,7 +16,7 @@ body {
 }
 
 main {
-    background: url(../NLW/images/background.png);
+    background: url(images/background.png);
     height: 812px;
     width: 375px;
 }
