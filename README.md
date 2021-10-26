@@ -1,11 +1,11 @@
 # Badge Do While 2021
-## Next Level Week Heat
+## Next Level Week
 
 
 ### Projeto
 
 
-Durante a trilha Origin da NLW, desenvolvemos um cartão de identificação que permite divulgar os links de diferentes redes sociais, em um só lugar.
+Desenvolver um cartão de identificação que permite divulgar os links de diferentes redes sociais, em um só lugar.
 
 Acesse em: https://helainefarias.github.io/BadgeDoWhile2021/
 
