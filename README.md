@@ -9,8 +9,6 @@ Durante a trilha Origin da NLW, desenvolvemos um cartão de identificação que 
 
 Acesse em: https://helainefarias.github.io/BadgeDoWhile2021/
 
-A [NLW](https://nextlevelweek.com/inscricao/7) é um evento de tecnologia que desafia os participantes a desenvolver uma aplicação do início ao fim e é promovida pela Rocketseat.
-
 ### Tecnologias
 
 HTML
